@@ -1,0 +1,17 @@
+1. make an array of all previously coded words
+	- combine excel files
+	- keep only unique words
+
+2. split a description into an array of terms
+
+3. for each word in the desc. check for a match in the prev. coded words store in temp array
+
+4. write 3 columns game id, word to excel file
+
+Version 2:
+
+1. make additional array of bigrams
+
+2. detect and extract all proper nouns (use nltk again)
+
+   
